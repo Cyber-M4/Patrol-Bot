@@ -20,6 +20,7 @@ The project was built as a hands-on exercise in ROS 2, focusing on robot movemen
 Step 1 — Clone and build
 
 Terminal 1
+
 cd ~
 
 git clone https://github.com/Cyber-M4/Patrol-Bot.git
