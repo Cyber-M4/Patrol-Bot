@@ -1,0 +1,17 @@
+[0.847s] Invoking command in '/home/ros2ar/patrol_ws/build/patrol_guard_bot': PYTHONPATH=/home/ros2ar/patrol_ws/build/patrol_guard_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ros2ar/patrol_ws/install/patrol_guard_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ros2ar/patrol_ws/build/patrol_guard_bot/build --no-deps symlink_data
+[1.124s] running develop
+[1.282s] running egg_info
+[1.282s] writing patrol_guard_bot.egg-info/PKG-INFO
+[1.282s] writing dependency_links to patrol_guard_bot.egg-info/dependency_links.txt
+[1.282s] writing entry points to patrol_guard_bot.egg-info/entry_points.txt
+[1.283s] writing requirements to patrol_guard_bot.egg-info/requires.txt
+[1.283s] writing top-level names to patrol_guard_bot.egg-info/top_level.txt
+[1.284s] reading manifest file 'patrol_guard_bot.egg-info/SOURCES.txt'
+[1.285s] writing manifest file 'patrol_guard_bot.egg-info/SOURCES.txt'
+[1.286s] running build_ext
+[1.286s] Creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/lib/python3.10/site-packages/patrol-guard-bot.egg-link (link to .)
+[1.287s] Installing auto_mapper script to /home/ros2ar/patrol_ws/install/patrol_guard_bot/bin
+[1.288s] 
+[1.288s] Installed /home/ros2ar/patrol_ws/build/patrol_guard_bot
+[1.288s] running symlink_data
+[1.327s] Invoked command in '/home/ros2ar/patrol_ws/build/patrol_guard_bot' returned '0': PYTHONPATH=/home/ros2ar/patrol_ws/build/patrol_guard_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ros2ar/patrol_ws/install/patrol_guard_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ros2ar/patrol_ws/build/patrol_guard_bot/build --no-deps symlink_data

@@ -1,0 +1,32 @@
+running develop
+running egg_info
+creating patrol_guard_bot.egg-info
+writing patrol_guard_bot.egg-info/PKG-INFO
+writing dependency_links to patrol_guard_bot.egg-info/dependency_links.txt
+writing entry points to patrol_guard_bot.egg-info/entry_points.txt
+writing requirements to patrol_guard_bot.egg-info/requires.txt
+writing top-level names to patrol_guard_bot.egg-info/top_level.txt
+writing manifest file 'patrol_guard_bot.egg-info/SOURCES.txt'
+reading manifest file 'patrol_guard_bot.egg-info/SOURCES.txt'
+writing manifest file 'patrol_guard_bot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/lib/python3.10/site-packages/patrol-guard-bot.egg-link (link to .)
+Installing auto_mapper script to /home/ros2ar/patrol_ws/install/patrol_guard_bot/bin
+
+Installed /home/ros2ar/patrol_ws/build/patrol_guard_bot
+running symlink_data
+creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/ament_index
+creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/ament_index/resource_index
+creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/ament_index/resource_index/packages
+symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/resource/patrol_guard_bot -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/ament_index/resource_index/packages
+symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/package.xml -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot
+creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/launch
+symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/launch/patrol_simulation.launch.py -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/launch
+symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/launch/patrol_rtabmap.launch.py -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/launch
+creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/worlds
+symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/worlds/patrol_world.world -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/worlds
+creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/rviz
+creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/config
+creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/maps
+symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/maps/patrol_map.pgm -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/maps
+symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/maps/patrol_map.yaml -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/maps

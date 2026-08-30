@@ -1,0 +1,34 @@
+[1.734s] Invoking command in '/home/ros2ar/patrol_ws/build/patrol_guard_bot': PYTHONPATH=/home/ros2ar/patrol_ws/build/patrol_guard_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ros2ar/patrol_ws/install/patrol_guard_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ros2ar/patrol_ws/build/patrol_guard_bot/build --no-deps symlink_data
+[2.170s] running develop
+[2.409s] running egg_info
+[2.409s] creating patrol_guard_bot.egg-info
+[2.409s] writing patrol_guard_bot.egg-info/PKG-INFO
+[2.410s] writing dependency_links to patrol_guard_bot.egg-info/dependency_links.txt
+[2.410s] writing entry points to patrol_guard_bot.egg-info/entry_points.txt
+[2.410s] writing requirements to patrol_guard_bot.egg-info/requires.txt
+[2.412s] writing top-level names to patrol_guard_bot.egg-info/top_level.txt
+[2.412s] writing manifest file 'patrol_guard_bot.egg-info/SOURCES.txt'
+[2.415s] reading manifest file 'patrol_guard_bot.egg-info/SOURCES.txt'
+[2.416s] writing manifest file 'patrol_guard_bot.egg-info/SOURCES.txt'
+[2.419s] running build_ext
+[2.421s] Creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/lib/python3.10/site-packages/patrol-guard-bot.egg-link (link to .)
+[2.421s] Installing auto_mapper script to /home/ros2ar/patrol_ws/install/patrol_guard_bot/bin
+[2.421s] 
+[2.422s] Installed /home/ros2ar/patrol_ws/build/patrol_guard_bot
+[2.422s] running symlink_data
+[2.422s] creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/ament_index
+[2.422s] creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/ament_index/resource_index
+[2.422s] creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/ament_index/resource_index/packages
+[2.422s] symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/resource/patrol_guard_bot -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/ament_index/resource_index/packages
+[2.422s] symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/package.xml -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot
+[2.422s] creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/launch
+[2.422s] symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/launch/patrol_simulation.launch.py -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/launch
+[2.423s] symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/launch/patrol_rtabmap.launch.py -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/launch
+[2.423s] creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/worlds
+[2.423s] symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/worlds/patrol_world.world -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/worlds
+[2.423s] creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/rviz
+[2.423s] creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/config
+[2.423s] creating /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/maps
+[2.423s] symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/maps/patrol_map.pgm -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/maps
+[2.423s] symbolically linking /home/ros2ar/patrol_ws/build/patrol_guard_bot/maps/patrol_map.yaml -> /home/ros2ar/patrol_ws/install/patrol_guard_bot/share/patrol_guard_bot/maps
+[2.556s] Invoked command in '/home/ros2ar/patrol_ws/build/patrol_guard_bot' returned '0': PYTHONPATH=/home/ros2ar/patrol_ws/build/patrol_guard_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ros2ar/patrol_ws/install/patrol_guard_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ros2ar/patrol_ws/build/patrol_guard_bot/build --no-deps symlink_data
